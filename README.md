@@ -24,6 +24,7 @@ webpack使用教程：[webpack](https://webpack.docschina.org/concepts/)
 
 ```bash
 npm install webpack --save-dev
+npm install webpack-cli -D
 ```
 
 然后创建一些必要的文件：
