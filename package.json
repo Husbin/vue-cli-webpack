@@ -1,0 +1,26 @@
+{
+  "name": "vue-cli-webpack",
+  "version": "1.0.0",
+  "description": "> 从零开始搭Vue项目，主要是想脱离对脚手架全家桶的依赖，以及从中深入学习一点webpack相关的知识，不要每次打开package.json以及webpack的配置文件都一脸懵逼。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Husbin/vue-cli-webpack.git"
+  },
+  "keywords": [
+    "vue-cli",
+    "webpack"
+  ],
+  "author": "husbin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Husbin/vue-cli-webpack/issues"
+  },
+  "homepage": "https://github.com/Husbin/vue-cli-webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.14.0"
+  }
+}
